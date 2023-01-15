@@ -11,8 +11,7 @@
 </ul>
 <br>
 
-<em>Languages,Libraries and Tools used</em>
-<ul>
+<em>Languages,Libraries and Tools used</em><ul>
 <li>HTML5</li>
 <li>CSS3</li>
 <li>JavaScript</li>
