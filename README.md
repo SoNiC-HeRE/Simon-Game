@@ -19,4 +19,4 @@
 </ul>
 
 
-Play Now: 
+Play Now: sonic-simon-game.netlify.app
